@@ -1,6 +1,6 @@
 # Total Car
 
-### O sistema Total Car é um exemplo de uma aplicação desktop didática desenvolvida por mim para mostrar como eram desenvolvidos os sistemas entre oito ou dez anos atrás em algumas empresas no mundo corporativo. Funciona, mas não segue os padrões de projeto, utilização das camadas MVC e DDD, os padrões SOLID e o que é mais preocupante é na questão da segurança como transações diretas com o banco, ou seja, na mesma camada contendo string de conexão e nenhuma criptografia. 
+### O sistema Total Car é um exemplo de uma aplicação desktop didática desenvolvida por mim para mostrar como eram desenvolvidos os sistemas entre oito ou dez anos atrás em algumas empresas. Funciona, mas não segue os padrões de projeto, utilização das camadas MVC e DDD, os padrões SOLID e o que é mais preocupante é na questão da segurança como transações diretas com o banco, ou seja, na mesma camada contendo string de conexão e nenhuma criptografia. 
 
 ### Tela Principal
 
